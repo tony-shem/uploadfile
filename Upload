@@ -1,0 +1,6 @@
+gema "# uploadfile" >> README.md 
+git init 
+git tambahkan README.md 
+git commit -m "komit pertama" 
+git remote tambahkan asal https://github.com/tony-shem/uploadfile.git
+ git push -u master asal
